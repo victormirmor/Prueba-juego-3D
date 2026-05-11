@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/3DGamekitLite/Scenes/ExampleScene.unity
-    guid: 12dd7bb27c47ea1458c8d4ecd98af2cc
+    path: Assets/FreeHorrorGameKit/Scenes/Demo Scene.unity
+    guid: d1774bdf02b008d499d674c949f219e5
   m_configObjects: {}
